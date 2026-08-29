@@ -1,16 +1,26 @@
 <div align="center">
 
-<!-- HERO ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,40:0F172A,100:0284C7&height=200&section=header&text=Vaishnavi%20Dwivedi&fontSize=38&fontColor=F8FAFC&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Web%20Products&descFontSize=16&descFontColor=38BDF8&descAlignY=58" width="100%" alt="Vaishnavi Dwivedi Banner" />
+<!-- PIXEL CAT SMALL ABOVE BANNER -->
+<p align="center">    
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100" alt="pixel cat" />
 </p>
 
-<!-- AVATAR SMALL LEFT + TYPING CENTER -->
-<img align="left" src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="55" alt="Avatar" />
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+practical+web+products+%F0%9F%9A%80;Exploring+AI+Engineering+%F0%9F%A7%A0;Learning+Cloud+%26+System+Design+%E2%9A%99%EF%B8%8F" alt="Typing Animation" />
-</p>
-<br clear="left"/>
+<!-- WAVE TOP (no text) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,40:0F172A,100:0284C7&height=130&section=header" width="100%" alt="wave header" />
+
+<!-- NAME + GIRL IMAGE SIDE BY SIDE -->
+<table width="100%"><tr>
+<td valign="middle" align="left" width="72%">
+<h2 align="left">Vaishnavi Dwivedi</h2>
+<p align="left"><strong>Full Stack Developer • Building Web Products</strong></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=480&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+practical+web+products+%F0%9F%9A%80;Exploring+AI+Engineering+%F0%9F%A7%A0;Learning+Cloud+%26+System+Design+%E2%9A%99%EF%B8%8F" alt="Typing Animation" />
+</td>
+<td valign="middle" align="right" width="28%">
+<img src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="200" alt="Vaishnavi Avatar" />
+</td>
+</tr></table>
+
+</div>
 
 <!-- QUICK LINKS -->
 <p align="center">
@@ -35,11 +45,6 @@
   <img src="https://komarev.com/ghpvc/?username=Vaishnavi5200&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- ACTIVITY ANIMATION above terminal -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100%" alt="Activity Animation" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
 <br/>
@@ -47,21 +52,19 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
-</div>
-
 <br/>
 
-### 🧑‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" alt="wave" />
+<!-- ABOUT ME — badge style matching screenshot -->
+- 🚀 I'm currently working on &nbsp;![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6B35?style=flat-square&logo=openai&logoColor=white)
+- 🧠 I'm currently learning &nbsp;![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AI Engineering](https://img.shields.io/badge/-AI%20Engineering-8B5CF6?style=flat-square) ![Cloud](https://img.shields.io/badge/-Cloud-0EA5E9?style=flat-square&logo=googlecloud&logoColor=white) &nbsp;<img src="./assets/zany.png" width="20" align="center" alt="🤪" />
+- 🛠️ I work using &nbsp;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- 🌍 I'm looking for help in &nbsp;![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6B35?style=flat-square) ![System Design](https://img.shields.io/badge/-System%20Design-10B981?style=flat-square) ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white)
+- 💬 Ask me about &nbsp;![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- 📫 How to reach me &nbsp;![Gmail](https://img.shields.io/badge/-dwivedivaishnavi5200-EA4335?style=flat-square&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+- 🌐 Projects are available at &nbsp;![Portfolio](https://img.shields.io/badge/-Portfolio-0284C7?style=flat-square&logo=google-chrome&logoColor=white)
+- 🤝 Let's connect and collaborate on exciting projects! &nbsp;<img src="./assets/grinning.png" width="20" align="center" alt="😁" />
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310" alt="coding animation" />
-
-- 🎓 **B.Tech CSE student** & **Full-Stack Developer** turning real ideas into deployed software. &nbsp;<img src="./assets/grinning.png" width="22" align="center" alt="😁" />
-- 🚀 Shipped **CrediFlow**, **CareerOS**, and **EntitlementIQ** from scratch to live production.
-- 🏆 **4th Place out of 100 Teams** at HackWithUP 2.0 RocketRide Buildathon ($100 Prize). &nbsp;<img src="./assets/astonished.png" width="22" align="center" alt="😲" />
-- 🧭 Currently exploring AI engineering, backend systems, cloud, and system design. &nbsp;<img src="./assets/zany.png" width="22" align="center" alt="🤪" />
-- ⚡ **Daily mode:** Turn coffee into clean commits &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="34" align="center" alt="typing cat" /> &nbsp;<img src="./assets/hot.gif" width="26" align="center" alt="🔥" /> &nbsp;<img src="./assets/kiss.png" width="22" align="center" alt="😘" />
-
-<br clear="right"/>
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
@@ -69,8 +72,8 @@
 
 <br/>
 
-<!-- CODING LAPTOP GIF RIGHT in tech stack -->
-<img align="right" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="220" alt="Coding laptop" />
+<!-- TECH ANIMATION (LAPTOP) -->
+<img align="right" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="220" alt="Tech Animation" />
 
 <h3 align="left">🛠️ Languages &amp; Tools <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="22px" alt="fire" /></h3>
 
@@ -130,15 +133,11 @@
 
 ### 🧠 Currently Exploring: AI Engineering
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="120" alt="Dev laptop" />
+<!-- LAPTOP/COMPUTER GIF RIGHT AFTER HEADING -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="130" alt="Dev laptop" />
 
 > *Active exploration & learning path — ongoing study, not commercial production expertise:*
 
-```
-┌─────────────────┐     ┌──────────────┐     ┌───────────────────┐     ┌──────────────────────┐
-│ LLMs & Prompting│ ──► │ RAG & Vectors│ ──► │ AI Agents & Tools │ ──► │ Backend Integration  │
-└─────────────────┘     └──────────────┘     └───────────────────┘     └──────────────────────┘
-```
 
 <table>
 <tr>
@@ -186,7 +185,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="coding celebration" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -203,7 +202,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/RocketRide_AI-6366F1?style=flat-square&logo=openai&logoColor=white" alt="RocketRide" />
 </p>
-<p>🏆 <strong>HackWithUP 2.0 RocketRide Buildathon · 4th Place out of 100 Teams ($100 Prize)</strong> · <em>Led Team Nirmaan</em></p>
 <p>
 <a href="https://credi-flow-gray.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
 &nbsp;
@@ -275,7 +273,7 @@
 <table>
 <tr>
 <td valign="middle" width="72%">
-<p><em>Open to collaborations, internships & exciting projects! Let's build something great together 🚀</em></p>
+<p><em>Open to collaborations, internships & exciting projects! Let's build something great together 🫶</em></p>
 <p>
 <a href="https://www.linkedin.com/in/vaishnavi-dwivedi-384773390/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
