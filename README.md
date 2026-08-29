@@ -75,49 +75,55 @@
 <!-- TECH ANIMATION (LAPTOP) -->
 <img align="right" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="220" alt="Tech Animation" />
 
-<h3 align="left">🛠️ Languages &amp; Tools <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="22px" alt="fire" /></h3>
+<h3 align="left">🛠️ Tech Stack &amp; Tooling <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="22px" alt="fire" /></h3>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="42" height="42"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="42" height="42"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="42" height="42"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="42" height="42"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="42" height="42"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="42" height="42"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="42" height="42"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="42" height="42"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42"/></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="42" height="42"/></a>
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**💻 Languages:** `C` • `Java` • `Python` • `JavaScript` • `TypeScript`
+**🎨 Frontend**  
+`React.js` • `Next.js` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `HTML5/CSS3`
 
-**🎨 Frontend:** `React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS`
+**⚙️ Backend & APIs**  
+`Node.js` • `Express.js` • `FastAPI (Python)` • `REST APIs` • `JWT Auth`
 
-**⚙️ Backend:** `Node.js` • `Express.js` • `FastAPI` • `REST APIs`
+**🗄️ Databases**  
+`MongoDB` • `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-**🗄️ Databases:** `MongoDB` • `MySQL`
+**🤖 AI / Currently Exploring**  
+`LLM Basics` • `Prompt Eng` • `RAG` • `Vector DBs` • `AI Agents` • `LangChain`
 
-**🚀 Deployment:** `Git` • `GitHub` • `Docker` • `Vercel` • `Render` • `Railway`
+**🚀 Tools & Deployment**  
+`Git` • `GitHub` • `Docker` • `Postman` • `Vercel` • `VS Code`
 
-**📐 Concepts:** `DSA` • `OOP` • `DBMS` • `CRUD` • `Responsive Design`
+**📐 Core CS & Concepts**  
+`DSA` • `OOP` • `DBMS` • `C` • `Java`
 
 </td>
 </tr>
@@ -131,43 +137,41 @@
 
 <br/>
 
-### 🧠 Currently Exploring: AI Engineering
+### 🧠 Currently Exploring / Learning: AI Engineering
 
 <!-- LAPTOP/COMPUTER GIF RIGHT AFTER HEADING -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="130" alt="Dev laptop" />
 
-> *Active exploration & learning path — ongoing study, not commercial production expertise:*
-
+> *Self-directed learning path & active exploration — focused on modern AI developer workflows (not claimed as commercial production expertise):*
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<h4>🤖 AI Engineering</h4>
-<p>
-<code>LLM Basics</code> • <code>Prompt Eng</code><br/>
-<code>RAG</code> • <code>Vector DBs</code><br/>
-<code>AI Agents</code> • <code>Tool Calling</code><br/>
-<code>LangChain</code> • <code>LangGraph</code><br/>
-<code>Model APIs</code> • <code>AI Eval</code>
-</p>
+
+#### 📚 LLM Foundations
+- `LLM Basics & Architectures`
+- `Prompt Engineering & Few-Shot`
+- `Model APIs & Context Management`
+- `AI Evaluation & Output Quality`
+
 </td>
 <td width="33%" valign="top">
-<h4>☁️ Cloud & DevOps</h4>
-<p>
-<code>Docker</code><br/>
-<code>CI/CD Pipelines</code><br/>
-<code>AWS Basics</code><br/>
-<code>GCP Basics</code>
-</p>
+
+#### ⚙️ AI Systems
+- `RAG Pipelines & Retrieval`
+- `Vector Databases & Embeddings`
+- `Autonomous AI Agents`
+- `Tool Calling & Function Execution`
+
 </td>
 <td width="33%" valign="top">
-<h4>📐 System Design</h4>
-<p>
-<code>REST API Architecture</code><br/>
-<code>Caching Strategies</code><br/>
-<code>Database Design</code><br/>
-<code>Scalability Concepts</code>
-</p>
+
+#### 🔌 Production Integration
+- `LangChain & LangGraph Orchestration`
+- `AI + Backend Integration (Node/FastAPI)`
+- `Structured JSON & Schema Validation`
+- `Security, Guardrails & Reliability`
+
 </td>
 </tr>
 </table>
@@ -273,7 +277,7 @@
 <table>
 <tr>
 <td valign="middle" width="72%">
-<p><em>Open to collaborations, internships & exciting projects! Let's build something great together 🫶</em></p>
+<p><em>Open to collaborations, internships & exciting projects! Let's build something great together 🚀</em></p>
 <p>
 <a href="https://www.linkedin.com/in/vaishnavi-dwivedi-384773390/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
