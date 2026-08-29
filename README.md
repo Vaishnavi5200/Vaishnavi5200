@@ -5,17 +5,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,40:0F172A,100:0284C7&height=200&section=header&text=Vaishnavi%20Dwivedi&fontSize=38&fontColor=F8FAFC&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Web%20Products&descFontSize=16&descFontColor=38BDF8&descAlignY=58" width="100%" alt="Vaishnavi Dwivedi Banner" />
 </p>
 
-<!-- TYPING + AVATAR SIDE BY SIDE -->
-<table align="center"><tr>
-<td align="center" width="75%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+practical+web+products+%F0%9F%9A%80;Exploring+AI+Engineering+%F0%9F%A7%A0;Learning+Cloud+%26+System+Design+%E2%9A%99%EF%B8%8F" alt="Typing Animation" />
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="100" style="border-radius:50%" alt="Avatar" />
-</td>
-</tr></table>
+<!-- AVATAR SMALL LEFT + TYPING CENTER -->
+<img align="left" src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="55" alt="Avatar" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+practical+web+products+%F0%9F%9A%80;Exploring+AI+Engineering+%F0%9F%A7%A0;Learning+Cloud+%26+System+Design+%E2%9A%99%EF%B8%8F" alt="Typing Animation" />
+</p>
+<br clear="left"/>
 
-<!-- QUICK LINKS — LinkedIn · Portfolio · Gmail · GitHub only -->
+<!-- QUICK LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-dwivedi-384773390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
@@ -38,14 +35,13 @@
   <img src="https://komarev.com/ghpvc/?username=Vaishnavi5200&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- SNAKE / ACTIVITY ANIMATION above terminal -->
+<!-- ACTIVITY ANIMATION above terminal -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100%" alt="Activity Animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
-<!-- ANIMATED TERMINAL -->
 <br/>
 <img src="./terminal.svg" width="100%" alt="Vaishnavi Terminal" />
 <br/>
@@ -59,11 +55,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310" alt="coding animation" />
 
-- 🎓 **B.Tech CSE student** & **Full-Stack Developer** turning real ideas into deployed software.
+- 🎓 **B.Tech CSE student** & **Full-Stack Developer** turning real ideas into deployed software. &nbsp;<img src="./assets/grinning.png" width="22" align="center" alt="😁" />
 - 🚀 Shipped **CrediFlow**, **CareerOS**, and **EntitlementIQ** from scratch to live production.
-- 🏆 **4th Place out of 100 Teams** at HackWithUP 2.0 RocketRide Buildathon ($100 Prize).
-- 🧭 Currently exploring AI engineering, backend systems, cloud, and system design.
-- ⚡ **Daily mode:** Turn coffee into clean commits &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="34" align="center" alt="typing cat" /> &nbsp;<img src="./assets/hot.gif" width="28" align="center" alt="🔥" />
+- 🏆 **4th Place out of 100 Teams** at HackWithUP 2.0 RocketRide Buildathon ($100 Prize). &nbsp;<img src="./assets/astonished.png" width="22" align="center" alt="😲" />
+- 🧭 Currently exploring AI engineering, backend systems, cloud, and system design. &nbsp;<img src="./assets/zany.png" width="22" align="center" alt="🤪" />
+- ⚡ **Daily mode:** Turn coffee into clean commits &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="34" align="center" alt="typing cat" /> &nbsp;<img src="./assets/hot.gif" width="26" align="center" alt="🔥" /> &nbsp;<img src="./assets/kiss.png" width="22" align="center" alt="😘" />
 
 <br clear="right"/>
 
@@ -73,11 +69,11 @@
 
 <br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="170" alt="Tech robot" />
+<!-- CODING LAPTOP GIF RIGHT in tech stack -->
+<img align="right" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="220" alt="Coding laptop" />
 
 <h3 align="left">🛠️ Languages &amp; Tools <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="22px" alt="fire" /></h3>
 
-<!-- DEVICON SVG ICONS -->
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
@@ -101,7 +97,6 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/></a>
 </p>
 
-<!-- TECH MATRIX -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -186,7 +181,12 @@
 
 <br/>
 
-## 🚀 Featured Projects <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="40" align="center" alt="project animation" />
+<!-- GIF ABOVE FEATURED PROJECTS -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="coding celebration" />
+</p>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -259,24 +259,9 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
-</div>
-
-<br/>
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vaishnavi5200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaishnavi5200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
+<!-- GIF BELOW FEATURED PROJECTS -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/0284C7/Vaishnavi5200" alt="Vaishnavi's GitHub Contribution Graph" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="600" alt="stars celebration" />
 </p>
 
 <div align="center">
@@ -285,15 +270,12 @@
 
 <br/>
 
-### 🤝 Let's Connect 🤪
+### 🤝 Let's Connect
 
 <table>
 <tr>
 <td valign="middle" width="72%">
-<p>
-<em>Open to collaborations, internships & exciting projects!</em> 😁<br/>
-<em>Let's build something great together</em> 😘
-</p>
+<p><em>Open to collaborations, internships & exciting projects! Let's build something great together 🚀</em></p>
 <p>
 <a href="https://www.linkedin.com/in/vaishnavi-dwivedi-384773390/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
